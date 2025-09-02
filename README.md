@@ -1,4 +1,5 @@
 # New Menu Analysis for Taste of the World Cafe
+See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 ## Context
 - Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
@@ -17,13 +18,7 @@ Data for this analysis consists of 5,343 unique orders completed between January
 - **Cuisine:** American, Asian, Italian, or Mexican
 - **Price Range:** Under $10, $10 or more
 
-### Software Toolkit
-- Excel
-- SQL
-- Tableau
-
 ## Findings
-See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 ### Overall 
 - 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
@@ -50,6 +45,12 @@ See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profi
 	- ***Rationale:*** Items of Asian and Italian cuisines generated the most revenue. Developing more items from these cuisines will help the Cafe continue to tap into a valuable segment of the customer base.
 - **For future analyses, collect data about each item's cost of production to enable a profitability analysis.**
 	- ***Rationale:*** Collecting data about cost of each item (i.e., cost of ingredients and time to prepare) would enable better decision-making about whether to adjust item prices or remove items from the menu. The current analysis would have been improved by using data on item profitability instead of data on item revenue.
+
+
+## Software Toolkit
+- Excel
+- SQL
+- Tableau
 
 
 
