@@ -1,6 +1,6 @@
 # New Menu Analysis for Taste of the World Cafe
 
-## Project Context
+## Context
 - Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
 - Client debuted a new menu in January 2023.
 - Client wants to know:
