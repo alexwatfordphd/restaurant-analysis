@@ -1,4 +1,5 @@
 # New Menu Analysis for Taste of the World Cafe
+See associated Tableau dashboard(s) [here]([url](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)).
 
 ## Context
 - Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
