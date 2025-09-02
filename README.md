@@ -1,8 +1,8 @@
 # New Menu Analysis for Taste of the World Cafe
 See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
-## Background and Purpose
-I was hired to complete a menu analysis for **Taste of the World Cafe**, a restaurant with diverse menu offerings from domestic and international cuisines. The client debuted a new menu in January 2023.
+## Purpose
+Client is **Taste of the World Cafe**, a restaurant with diverse menu offerings from domestic and international cuisines. The client debuted a new menu in January 2023.
 
 ### Client wants to know:
 - Which menu items are doing well/not well?
@@ -16,7 +16,6 @@ This analysis uses transaction data from 5,343 unique orders completed between J
 
 - **Units Sold:** Number of units sold 
 - **Revenue Generated ($):** Sum of revenue generated 
-- **Average Order Value ($):** Average revenue per order 
 - **Cuisine:** Type of cuisine the menu item belongs to (American, Asian, Italian, or Mexican)
 - **Price Range:** The price category of each menu item (Under $10, $10 or more)
 
