@@ -1,5 +1,4 @@
 # New Menu Analysis for Taste of the World Cafe
-See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 ## Context
 - Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
@@ -19,6 +18,7 @@ Data for this analysis consists of 5,343 unique orders completed between January
 - **Price Range:** Under $10, $10 or more 
 
 ## Findings
+See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 #### Overall 
 - 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
