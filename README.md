@@ -15,7 +15,12 @@ Data for this analysis consists of 5,343 unique orders completed between January
 - **Item Popularity:** Number of units sold 
 - **Revenue Generated:** Sum of revenue generated 
 - **Cuisine:** American, Asian, Italian, or Mexican
-- **Price Range:** Under $10, $10 or more 
+- **Price Range:** Under $10, $10 or more
+
+#### Software Toolkit
+- Excel
+- SQL
+- Tableau
 
 ## Findings
 See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
@@ -45,3 +50,6 @@ See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profi
 	- ***Rationale:*** Items of Asian and Italian cuisines generated the most revenue. Developing more items from these cuisines will help the Cafe continue to tap into a valuable segment of the customer base.
 - **For future analyses, collect data about each item's cost of production to enable a profitability analysis.**
 	- ***Rationale:*** Collecting data about cost of each item (i.e., cost of ingredients and time to prepare) would enable better decision-making about whether to adjust item prices or remove items from the menu. The current analysis would have been improved by using data on item profitability instead of data on item revenue.
+
+
+
