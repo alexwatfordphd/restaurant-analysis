@@ -10,14 +10,14 @@
 ### About the Data
 Data for this analysis consists of 5,343 unique orders completed between January 1, 2023 and March 31, 2023.
 
-#### Key Metrics and Dimensions
+### Key Metrics and Dimensions
 
 - **Item Popularity:** Number of units sold 
 - **Revenue Generated:** Sum of revenue generated 
 - **Cuisine:** American, Asian, Italian, or Mexican
 - **Price Range:** Under $10, $10 or more
 
-#### Software Toolkit
+### Software Toolkit
 - Excel
 - SQL
 - Tableau
@@ -25,16 +25,16 @@ Data for this analysis consists of 5,343 unique orders completed between January
 ## Findings
 See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
-#### Overall 
+### Overall 
 - 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
 
-#### By Item
+### By Item
 - **Item with most units sold:** 		Hamburger (622 units)
 - **Item with least units sold:** 		Chicken Tacos (123 units)
 - **Item generating most revenue:**		Korean Beef Bowl (588 units; $10,555)
 - **Item generating least revenue:** 	Chicken Tacos (123 units; $1,470)
 
-#### By Cuisine
+### By Cuisine
 - **Cuisine with most units sold:** 		Asian
 - **Cuisine with least units sold:** 		American
 - **Cuisine generating most revenue:**		Italian
