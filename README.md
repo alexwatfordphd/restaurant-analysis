@@ -1,36 +1,39 @@
 # New Menu Analysis for Taste of the World Cafe
 See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
-## Context
-- Client is **Taste of the World Cafe**, a restaurant with diverse menu offerings from domestic and international cuisines
-- Client debuted a new menu in January 2023.
-- Client wants to know:
-	- Which menu items are doing well/not well (revenue generated)?
-	- What do customers like most/least (units sold)?
+## Background and Purpose
+I was hired to complete a menu analysis for **Taste of the World Cafe**, a restaurant with diverse menu offerings from domestic and international cuisines. The client debuted a new menu in January 2023.
+
+### Client wants to know:
+- Which menu items are doing well/not well?
+- What do customers like most/least?
+- Are there any patterns in customers' cuisine preferences?
  
-### About the Data
-Data for this analysis consists of 5,343 unique orders completed between January 1, 2023 and March 31, 2023.
+## About the Data
+This analysis uses transaction data from 5,343 unique orders completed between January 1, 2023 and March 31, 2023. 
 
-### Key Metrics and Dimensions
+#### Key Metrics and Dimensions
 
-- **Item Popularity:** Number of units sold 
-- **Revenue Generated:** Sum of revenue generated 
-- **Cuisine:** American, Asian, Italian, or Mexican
-- **Price Range:** Under $10, $10 or more
+- **Units Sold:** Number of units sold 
+- **Revenue Generated ($):** Sum of revenue generated 
+- **Average Order Value ($):** Average revenue per order 
+- **Cuisine:** Type of cuisine the menu item belongs to (American, Asian, Italian, or Mexican)
+- **Price Range:** The price category of each menu item (Under $10, $10 or more)
 
 ## Findings
 
 ### Overall 
-- 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
+- 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k.
+- Average revenue per order: $30
 
 ### By Item
 - **Item with most units sold:** 		Hamburger (622 units)
 - **Item with least units sold:** 		Chicken Tacos (123 units)
-- **Item generating most revenue:**		Korean Beef Bowl (588 units; $10,555)
-- **Item generating least revenue:** 	Chicken Tacos (123 units; $1,470)
+- **Item generating most revenue:**		Korean Beef Bowl ($10,555)
+- **Item generating least revenue:** 	Chicken Tacos ($1,470)
 
 ### By Cuisine
-- **Cuisine with most units sold:** 		Asian
+- **Cuisine with most units sold:** 		Asian ()
 - **Cuisine with least units sold:** 		American
 - **Cuisine generating most revenue:**		Italian
 - **Cuisine generating least revenue:**		American
