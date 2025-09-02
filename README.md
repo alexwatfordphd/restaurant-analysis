@@ -1,5 +1,5 @@
 # New Menu Analysis for Taste of the World Cafe
-See associated Tableau dashboard(s) [here]([url](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)).
+See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 ## Context
 - Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
@@ -9,7 +9,7 @@ See associated Tableau dashboard(s) [here]([url](https://public.tableau.com/app/
 	- What do customers like most/least (units sold)?
  
 ### About the Data
-Data for this analysis consists of 5,343 unique orders completed between January 1, 2023 and March 31, 2023. A total of 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
+Data for this analysis consists of 5,343 unique orders completed between January 1, 2023 and March 31, 2023.
 
 #### Key Metrics and Dimensions
 
@@ -19,6 +19,9 @@ Data for this analysis consists of 5,343 unique orders completed between January
 - **Price Range:** Under $10, $10 or more 
 
 ## Findings
+
+#### Overall 
+- 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k. 
 
 #### By Item
 - **Item with most units sold:** 		Hamburger (622 units)
