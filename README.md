@@ -2,7 +2,7 @@
 See associated Tableau dashboard(s) [here.](https://public.tableau.com/app/profile/jon.watford/viz/TasteoftheWorldCafeMenuAnalysis/KPIDashboard)
 
 ## Context
-- Client is Taste of the World Cafe, a restaurant with diverse menu offerings from domestic and international cuisines
+- Client is **Taste of the World Cafe**, a restaurant with diverse menu offerings from domestic and international cuisines
 - Client debuted a new menu in January 2023.
 - Client wants to know:
 	- Which menu items are doing well/not well (revenue generated)?
