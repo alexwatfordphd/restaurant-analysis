@@ -44,7 +44,7 @@ This analysis uses transaction data from 5,343 unique orders completed between J
 - **Remove chicken tacos from the menu.**  
 	- ***Rationale:*** Chicken tacos are the least popular item on the menu (123 units sold), while also generating the least revenue. Customers seeking Mexican food seem to prefer the Chicken Burrito or Chicken Torta. 
 - **Develop more Asian and Italian menu items, especially in the $10-$20 range**
-	- ***Rationale:*** Items of Asian and Italian cuisines generated the most revenue. Developing more items from these cuisines will help the Cafe continue to tap into a valuable segment of the customer base.
+	- ***Rationale:*** Items of Asian and Italian cuisines generated the most revenue. All of the top 10 high-revenue orders included at least 3 Italian dishes. The top 10 high-revenue orders also always included at least 10 items that costed over $10. Developing more items from Italian and Asian cuisines will help the Cafe continue to tap into a valuable segment of the customer base. Adding items over $10 helps meet the demand for those items among high-spend orders.  
 - **For future analyses, collect data about each item's cost of production to enable a profitability analysis.**
 	- ***Rationale:*** Collecting data about cost of each item (i.e., cost of ingredients and time to prepare) would enable better decision-making about whether to adjust item prices or remove items from the menu. The current analysis would have been improved by using data on item profitability instead of data on item revenue.
 
