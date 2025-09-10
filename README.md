@@ -25,13 +25,13 @@ This analysis uses transaction data from 5,343 unique orders completed between J
 - 12,097 items were sold during this 3-month period, generating a total revenue of ~$159k.
 - Average revenue per order: $30
 
-### By Item
+### Best/Worst Performing Menu Items
 - **Item with most units sold:** 		Hamburger			(622 units)
 - **Item with least units sold:** 		Chicken Tacos 		(123 units)
 - **Item generating most revenue:**		Korean Beef Bowl 	($10,555)
 - **Item generating least revenue:** 	Chicken Tacos 		($1,470)
 
-### By Cuisine
+### Best/Worst Performing Cuisine Types
 - **Cuisine with most units sold:** 		Asian	 	(3,470 units)
 - **Cuisine with least units sold:** 		American 	(2,734 units)
 - **Cuisine generating most revenue:**		Italian 	($49,463)
